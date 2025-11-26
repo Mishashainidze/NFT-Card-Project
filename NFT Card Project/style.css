@@ -1,0 +1,132 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #0d192c;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.main-container {
+  background-color: #15263f;
+  width: 350px;
+  height: 590px;
+  box-shadow: 0px 25px 50px rgba(0, 0, 0, 0.0952917);
+  border-radius: 15px;
+}
+
+.nft-image {
+  width: 302px;
+  height: 302px;
+  margin: 24px;
+  border-radius: 8px;
+}
+.header-text {
+  margin: 0px 24px 16px 24px;
+  width: 302px;
+  height: 28px;
+}
+h1 {
+  font-family: "Outfit";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 22px;
+  line-height: 28px;
+  color: white;
+}
+
+.secondary-text {
+  width: 302px;
+  height: 52px;
+  margin: 0px 24px 24px 24px;
+}
+h2 {
+  font-family: "Outfit";
+  font-style: normal;
+  font-weight: 300;
+  font-size: 18px;
+  line-height: 26px;
+  color: #8bacd9;
+}
+
+.div-with-icons {
+  width: 301px;
+  height: 20px;
+  margin: 0px 25px 24px 24px;
+  display: flex;
+  justify-content: space-between;
+}
+.etherium {
+  width: 93.48px;
+  height: 20px;
+  display: flex;
+  flex-direction: row;
+}
+h3 {
+  font-family: "Outfit";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 20px;
+  margin-left: 6.49px;
+  color: #00fff8;
+}
+.clock {
+  width: 105px;
+  height: 20px;
+  display: flex;
+  flex-direction: row;
+}
+
+h4 {
+  font-family: "Outfit";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 20px;
+  margin-left: 9px;
+  color: white;
+}
+
+.line {
+  color: #2e405a;
+  width: 302px;
+  height: 1px;
+  margin-left: 24px;
+  margin-right: 24px;
+}
+.avatar-group {
+  width: 230px;
+  height: 30px;
+  margin: 16px 96px 32px 24px;
+  display: flex;
+  align-items: center;
+}
+
+.avatar {
+  width: 33px;
+  height: 33px;
+}
+h5 {
+  font-family: "Outfit";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 20px;
+  color: #8bacd9;
+  margin-left: 16px;
+}
+h6 {
+  font-family: "Outfit";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 20px;
+  margin-left: 5px;
+  color: white;
+}
